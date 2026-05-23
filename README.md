@@ -42,8 +42,7 @@ Linear Regression se insurance charges predict karna
 ### Tools Used
 Python, pandas, matplotlib, seaborn, scikit-learn
 
------------------------------------------------------------------------------------------------------------
----
+-----------------------------------------------------------------------------------
 
 ## Task 5: Personal Loan Acceptance Prediction
 
